@@ -1,1 +1,1 @@
-import xpid
+from xpid.xpid import *
