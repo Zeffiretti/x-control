@@ -17,5 +17,5 @@ setuptools.setup(
   },
   license='MIT',
   packages=['x_control'],
-  install_requires=['time', 'warnings'],
+  install_requires=[],
 )
